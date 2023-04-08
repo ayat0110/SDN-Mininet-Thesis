@@ -25,6 +25,7 @@ For further reading visit https://www.techradar.com/best/best-linux-distros
 ### How to Install Linux on Windows 10?
 - The full guide is here https://www.hellotech.com/guide/for/how-to-install-linux-on-windows-10
 - Mininet alternatives https://www.topbestalternatives.com/mininet/
+![image](https://user-images.githubusercontent.com/76471156/230730594-34139756-9f2a-4e8d-85ff-1ad08b4ca3a8.png)
 
 ### For further reading visit  - [Mininet](http://mininet.org/) 
 
