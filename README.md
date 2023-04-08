@@ -8,10 +8,12 @@ In this repository you will found everything about SDN, Computer networks, Minin
 # What is Mininet?
 
 Mininet is an open-source network emulator that allows you to create a virtual network on a single machine. With Mininet, you can create a network topology of switches, routers, hosts, and other networking devices, and emulate the behavior of a real network by simulating network traffic and protocols.
+![image](https://user-images.githubusercontent.com/76471156/230721903-a3247adc-dfef-460c-89cb-0e65e491436f.png)
 
 Mininet is built on top of Linux container technology, which allows it to create isolated network environments that share the same kernel as the host machine. This means that you can create and manage multiple virtual networks on a single physical machine, without needing additional hardware.
 
 Mininet is often used in the development and testing of software-defined networking (SDN) applications and protocols, as it provides a flexible and scalable environment for testing different network configurations and traffic patterns. Additionally, Mininet is widely used in educational settings to teach computer networking concepts and protocols.
+You can use mininet with the mininet CLI and Mininet Python API(you need python knowledge for this one) and also with mininet GUI like the photo above.
 ### For further reading visit  - [Mininet](http://mininet.org/) 
 
 # How to install and use mininet ?
