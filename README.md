@@ -1,5 +1,5 @@
 
-# :rice_ball: SDN Mininet :rice_ball:
+# :rice_ball: Computer Networks, SDN, Mininet, Python, Linux and a little bit of everything :rice_ball:
 
 
 In this repository you will found everything about SDN, Computer networks, Mininet and Python also this repository contains code examples and resources for a software-defined networking (SDN) implemented using Mininet tool.
