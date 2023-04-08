@@ -21,6 +21,10 @@ You can use mininet with the mininet CLI and Mininet Python API(you need python 
 4. Ubuntu (my personal favorite)
 For further reading visit https://www.techradar.com/best/best-linux-distros
 
+### How to Install Linux on Windows 10?
+The full guide is here https://www.hellotech.com/guide/for/how-to-install-linux-on-windows-10
+Mininet alternatives https://www.topbestalternatives.com/mininet/
+
 ### For further reading visit  - [Mininet](http://mininet.org/) 
 
 # How to install and use mininet ?
@@ -160,11 +164,11 @@ SDN Northbound Interfaces (NBI): Interfaces between SDN Applications and SDN Con
 
 ### Recources for reading about SDN
 
--*https://opennetworking.org/wp-content/uploads/2013/02/TR_SDN_ARCH_1.0_06062014.pdf*
--*https://en.wikipedia.org/wiki/Software-defined_networking*
--*https://www.vmware.com/topics/glossary/content/software-defined-networking.html*
--*https://opennetworking.org/sdn-definition/*
--*https://ieeexplore.ieee.org/document/6994333*
-
+- [SDN architecture](https://opennetworking.org/wp-content/uploads/2013/02/TR_SDN_ARCH_1.0_06062014.pdf)
+- [Software-defined networking(Wikipedia)](https://en.wikipedia.org/wiki/Software-defined_networking) 
+- [Software-defined networking(VMware)](https://www.vmware.com/topics/glossary/content/software-defined-networking.html) 
+- [Software-Defined Networking (SDN) Definition](https://opennetworking.org/sdn-definition/) 
+- [Software-Defined Networking: A Comprehensive Survey(IEEE)](https://ieeexplore.ieee.org/document/6994333) 
+    
 </details>
 
