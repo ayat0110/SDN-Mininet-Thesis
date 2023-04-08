@@ -171,4 +171,10 @@ SDN Northbound Interfaces (NBI): Interfaces between SDN Applications and SDN Con
 - [Software-Defined Networking: A Comprehensive Survey(IEEE)](https://ieeexplore.ieee.org/document/6994333) 
     
 </details>
-
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
