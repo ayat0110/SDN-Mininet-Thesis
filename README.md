@@ -1,7 +1,7 @@
 
 # :rice_ball: Computer Networks, SDN, Mininet, Python, Linux and a little bit of everything :rice_ball:
 
-:cake:*Normally this repo started because of my computer engineering thesis on software defined networking and mininet but i didn't found much that statifed me when i was a beginner with mininet so i wanted to give my full knowledge and be a stater for using mininet and visualizing sdn through it*:cake:
+:cake:*Normally this repo started because of my computer engineering thesis on software defined networking and mininet but i didn't found much that statifed me when i was a beginner with mininet so i wanted to give my full knowledge and be a stater for using mininet and visualizing sdn through it*
 
 In this repository you will found everything about SDN, Computer networks, Mininet and Python also this repository contains code examples and resources for a software-defined networking (SDN) implemented using Mininet tool.
 
