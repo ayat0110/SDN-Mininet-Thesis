@@ -12,6 +12,13 @@ Mininet is built on top of Linux container technology, which allows it to create
 Mininet is often used in the development and testing of software-defined networking (SDN) applications and protocols, as it provides a flexible and scalable environment for testing different network configurations and traffic patterns. Additionally, Mininet is widely used in educational settings to teach computer networking concepts and protocols.
 ### For further reading visit  - [Mininet](http://mininet.org/) 
 
+# How to install and use mininet ?
+
+To install natively from source, first you need to get the source code:
+```
+git clone https://github.com/mininet/mininet
+```
+
 # What is SDN?
 
 Software-defined networking (SDN) is an approach to network architecture that aims to make networks more flexible, programmable, and easier to manage. In traditional networking, the control plane (which determines how packets are routed through the network) and the data plane (which forwards packets based on the routing decisions made by the control plane) are tightly integrated within the network devices themselves.
