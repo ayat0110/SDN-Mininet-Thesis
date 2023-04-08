@@ -13,7 +13,14 @@ Mininet is an open-source network emulator that allows you to create a virtual n
 Mininet is built on top of Linux container technology, which allows it to create isolated network environments that share the same kernel as the host machine. This means that you can create and manage multiple virtual networks on a single physical machine, without needing additional hardware.
 
 Mininet is often used in the development and testing of software-defined networking (SDN) applications and protocols, as it provides a flexible and scalable environment for testing different network configurations and traffic patterns. Additionally, Mininet is widely used in educational settings to teach computer networking concepts and protocols.
-You can use mininet with the mininet CLI and Mininet Python API(you need python knowledge for this one) and also with mininet GUI like the photo above.
+You can use mininet with the mininet CLI and Mininet Python API(you need python knowledge for this one) and also with mininet GUI like the photo above and also you need to learn the basics of using linux based operating systems(i use ubuntu 20.04).
+### Best Linux distros of 2023
+1. Nitrux Best Linux distro for beginners 
+2. Zorin OS Best Linux distro for Windows users
+3. Arch Linux Best Linux distro for power users
+4. Ubuntu (my personal favorite)
+For further reading visit https://www.techradar.com/best/best-linux-distros
+
 ### For further reading visit  - [Mininet](http://mininet.org/) 
 
 # How to install and use mininet ?
