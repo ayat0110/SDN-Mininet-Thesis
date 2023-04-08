@@ -102,5 +102,9 @@ SDN Northbound Interfaces (NBI): Interfaces between SDN Applications and SDN Con
 # The SDN Architecture
 ![image](https://user-images.githubusercontent.com/76471156/230720793-02038ce1-e8c6-4481-bb2d-5ff39f6cc1fc.png)
 
-#Recources for reading about SDN
+# Recources for reading about SDN
 *https://opennetworking.org/wp-content/uploads/2013/02/TR_SDN_ARCH_1.0_06062014.pdf*
+*https://en.wikipedia.org/wiki/Software-defined_networking*
+*https://www.vmware.com/topics/glossary/content/software-defined-networking.html*
+*https://opennetworking.org/sdn-definition/*
+*https://ieeexplore.ieee.org/document/6994333*
