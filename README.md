@@ -5,6 +5,48 @@
 In this repository you will found everything about SDN, Computer networks, Mininet and Python also this repository contains code examples and resources for a software-defined networking (SDN) implemented using Mininet tool.
 ![image](https://user-images.githubusercontent.com/76471156/230721842-5d17f92f-c1de-4288-8207-e1fe76ae05c1.png)
 
+# Network Topology Complete Guide
+
+# The Best Books to Learn How Computer Networks Work
+- Computer Networking: A Top-Down Approach by James Kurose, Keith Ross 
+- Networking All-in-One For Dummies by Doug Lowe
+- Network Programmability and Automation: Skills for the Next-Generation Network Engineer 
+For more books https://www.guru99.com/best-computer-networks-books.html
+
+### What is a network topology?
+
+A network topology is the physical and logical arrangement of nodes and connections in a network. Nodes usually include devices such as switches, routers and software with switch and router features. Network topologies are often represented as a graph.
+
+Network topologies describe the arrangement of networks and the relative location of traffic flows. Administrators can use network topology diagrams to determine the best placements for each node and the optimal path for traffic flow. With a well-defined and planned-out network topology, an organization can more easily locate faults and fix issues, improving its data transfer efficiency.
+![image](https://user-images.githubusercontent.com/76471156/230731189-e29e9b6e-68ba-4911-b43a-12ad45971aa4.png)
+
+# Types of Network Topology
+1. Point-to-Point Topology 
+The point-to-point topology is fairly basic, with a pair of nodes interconnected directly via a shared connection. The entire frequency of this connection can be reserved for data transfer between the paired nodes. This type of network connectivity involves a wire or cable to join two ends, but other alternatives such as microwaves and satellite connections are also viable. Since the button is used to change stations, the point-to-point connectivity is mostly created between the Television as well as the remote. Transmission of data over the computer system can be accomplished in numerous ways in this architecture, including half-duplex mode, Simplex mode, and full-duplex mode. 
+
+2. Star Topology 
+A star topology allows every node to be configured to the centralized hub, centralized computer, or the connected switches. A server is just a main hub in this context, and the many devices linked to the server are referred to as users. Computers may be linked together via RJ45 wire or coaxial connection. Within this topology, hubs or switches are employed as linked devices. This kind of topology is commonly utilized in network implementation. 
+
+3. Ring Topology 
+Except for interconnected endpoints, ring topology is identical to bus topology. Generally, this form of topology is classified as unidirectional or bidirectional. These topologies enable information to go in just one way, resulting in a linear ring topology, whilst others enable information to travel in any manner, resulting in a bidirectional ring topology. Each device in this configuration may be linked by utilizing two or more devices to build a circular channel. Token rings are topologies that allow information to be sent from one machine to another until it reaches its destination. So, when we join multiple computers and other networking devices inside a ring topology structure, the computer system here is referred to as a ring system. 
+
+4. Bus Topology
+Any units in a bus topology can be connected using a unified cable with dropped lines. A tap is a mechanism that connects the dropped line to the single connection. This topology may be designed by connecting all of the units with a singular cable known as a backbone cable. Each node could be linked to this singular wire throughout a dropped cable or effectively to this wire. When a node needs to send a message over the platform, it posts a signal on the channel so that all units linked to the system get the information. 
+
+5. Mesh Topology 
+Any network device and PC are linked together using a mesh topology. This design enables for many signals to be distributed even if any links fail. This architecture is mostly utilized in wireless systems. The connectivity of networks in this architecture may be done totally to each other using a specialized channel through which information can pass from source node to destination node. If the elements in a mesh are 'M,' so there are M (M-1)/2 interconnections. Each network has a feature such as a point-to-point connectivity to the parallel component. The interconnections in this architecture are often wireless or wired.
+
+In a full mesh topology, the computers in a local area network are interconnected with every other computer in the same network. In a partial mesh topology, not all but few computers are interconnected with other computers to which they communicate constantly. 
+
+6. Tree Topology 
+Multiple devices in a tree topology could be linked together like branches. These topologies are widely used to link pcs in a company system. In this topology, there is only one connection between any two linked elements since these two nodes have just one reciprocal link that forms a typical parent and child structure. This sort of topology is also known as a star bus topology in computer systems since it combines the features of a bus and star topology. This type of design is more successful in specific instances, such as communication between two separate networks. The network model necessitates the use of several nodes such as the intermediate, root, and lead.
+
+In a full mesh topology, the computers in a local area network are interconnected with every other computer in the same network. In a partial mesh topology, not all but few computers are interconnected with other computers to which they communicate constantly. 
+
+7. Hybrid Topology 
+The hybrid topology is the mixture of two or more node designs such as ring, mesh and bus. The selection and use of this system is mostly determined by the desired network bandwidth, position, and number of machines. To provide a complicated structure, the practical execution of this topology necessitates the use of many technologies. The key advantages of this system are increased versatility, high availability, and the ability to simply modify or add other topologies. This type of structure is more useful when complete variation is required inside the system. Along with its low cost, this system design is employed in a variety of industries. The hybrid topology concept is superior to other essential structures; it may also be configured in various environments. For users to administer, maintain, and construct the organization. 
+
+![image](https://user-images.githubusercontent.com/76471156/230731468-1c3512dd-46b0-4c4b-857e-bac7ba14b390.png)
 
 # What is Mininet?
 
