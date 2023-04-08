@@ -22,8 +22,8 @@ You can use mininet with the mininet CLI and Mininet Python API(you need python 
 For further reading visit https://www.techradar.com/best/best-linux-distros
 
 ### How to Install Linux on Windows 10?
--- The full guide is here https://www.hellotech.com/guide/for/how-to-install-linux-on-windows-10
--- Mininet alternatives https://www.topbestalternatives.com/mininet/
+- The full guide is here https://www.hellotech.com/guide/for/how-to-install-linux-on-windows-10
+- Mininet alternatives https://www.topbestalternatives.com/mininet/
 
 ### For further reading visit  - [Mininet](http://mininet.org/) 
 
