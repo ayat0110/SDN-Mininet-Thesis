@@ -19,7 +19,10 @@ A network topology is the physical and logical arrangement of nodes and connecti
 
 Network topologies describe the arrangement of networks and the relative location of traffic flows. Administrators can use network topology diagrams to determine the best placements for each node and the optimal path for traffic flow. With a well-defined and planned-out network topology, an organization can more easily locate faults and fix issues, improving its data transfer efficiency.
 
+<p align="center">
 ![image](https://user-images.githubusercontent.com/76471156/230731189-e29e9b6e-68ba-4911-b43a-12ad45971aa4.png)
+</p>
+
 
 # Types of Network Topology
 1. Point-to-Point Topology 
