@@ -1,7 +1,9 @@
 
-# SDN Mininet Thesis
+# SDN Mininet 
 
-This repository contains code examples and resources for a software-defined networking (SDN) implemented using Mininet tool.
+In this repository you will found everything about SDN, Computer networks, Mininet and Python also this repository contains code examples and resources for a software-defined networking (SDN) implemented using Mininet tool.
+![image](https://user-images.githubusercontent.com/76471156/230721842-5d17f92f-c1de-4288-8207-e1fe76ae05c1.png)
+
 
 # What is Mininet?
 
