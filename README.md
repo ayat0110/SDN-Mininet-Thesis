@@ -228,6 +228,13 @@ SDN Northbound Interfaces (NBI): Interfaces between SDN Applications and SDN Con
     
 </details>
 
+# Resources to learn Python
+- The best recource i found in Youtube was https://www.youtube.com/watch?v=eWRfhZUzrAc&ab_channel=freeCodeCamp.org (Python for Beginners – Full Course [Programming Tutorial] by freecodecamp)
+- For traning this one was the best https://www.programiz.com/python-programming/examples
+# Resources to learn Linux terminal commands
+- https://github.com/SaniTheWay/LearnBase-LinuxTerminalCommands
+![image](https://user-images.githubusercontent.com/76471156/230732197-e2816198-8970-478f-a9d4-5fbb42579e92.png)
+
 <div align="center">
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
@@ -244,3 +251,4 @@ SDN Northbound Interfaces (NBI): Interfaces between SDN Applications and SDN Con
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 
 </div>
+
