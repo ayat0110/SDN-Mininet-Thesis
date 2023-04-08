@@ -99,4 +99,6 @@ SDN Northbound Interfaces (NBI): Interfaces between SDN Applications and SDN Con
 # How SDN handles security in a centralized model risks, challenges and potential solutions?
 [Visit for further reading](https://thesai.org/Downloads/Volume10No10/Paper_42-Security_Issues_in_Software_Defined_Networking.pdf) 
 
-#The SDN Architecture
+# The SDN Architecture
+![image](https://user-images.githubusercontent.com/76471156/230720793-02038ce1-e8c6-4481-bb2d-5ff39f6cc1fc.png)
+
