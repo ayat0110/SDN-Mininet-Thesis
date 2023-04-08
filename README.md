@@ -51,7 +51,10 @@ In a full mesh topology, the computers in a local area network are interconnecte
 7. Hybrid Topology 
 The hybrid topology is the mixture of two or more node designs such as ring, mesh and bus. The selection and use of this system is mostly determined by the desired network bandwidth, position, and number of machines. To provide a complicated structure, the practical execution of this topology necessitates the use of many technologies. The key advantages of this system are increased versatility, high availability, and the ability to simply modify or add other topologies. This type of structure is more useful when complete variation is required inside the system. Along with its low cost, this system design is employed in a variety of industries. The hybrid topology concept is superior to other essential structures; it may also be configured in various environments. For users to administer, maintain, and construct the organization. 
 
-![image](https://user-images.githubusercontent.com/76471156/230731468-1c3512dd-46b0-4c4b-857e-bac7ba14b390.png)
+<p align="center">
+    <img  src="https://user-images.githubusercontent.com/76471156/230731468-1c3512dd-46b0-4c4b-857e-bac7ba14b390.png">
+</p>
+
 
 # What is Mininet?
 
