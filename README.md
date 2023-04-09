@@ -15,6 +15,17 @@ In this repository you will found everything about SDN, Computer networks, Minin
 - Network Programmability and Automation: Skills for the Next-Generation Network Engineer 
 - For more books https://www.guru99.com/best-computer-networks-books.html
 
+# What is the OSI Model?
+The open systems interconnection (OSI) model is a conceptual model created by the International Organization for Standardization which enables diverse communication systems to communicate using standard protocols. In plain English, the OSI provides a standard for different computer systems to be able to communicate with each other.
+
+The OSI Model can be seen as a universal language for computer networking. It is based on the concept of splitting up a communication system into seven abstract layers, each one stacked upon the last.
+
+![image](https://user-images.githubusercontent.com/76471156/230762138-3f18a369-abc6-4bf5-a561-904a02d64ced.png)
+
+Each layer of the OSI Model handles a specific job and communicates with the layers above and below itself. DDoS attacks target specific layers of a network connection; application layer attacks target layer 7 and protocol layer attacks target layers 3 and 4.
+
+### For durther reading https://www.cloudflare.com/learning/ddos/glossary/open-systems-interconnection-model-osi/
+
 # What is a network topology?
 
 A network topology is the physical and logical arrangement of nodes and connections in a network. Nodes usually include devices such as switches, routers and software with switch and router features. Network topologies are often represented as a graph.
@@ -25,6 +36,14 @@ Network topologies describe the arrangement of networks and the relative locatio
     <img  src="https://user-images.githubusercontent.com/76471156/230731189-e29e9b6e-68ba-4911-b43a-12ad45971aa4.png">
 </p>
 
+# What is Address Resolution Protocol (ARP)?
+ARP (Address Resolution Protocol) is a network protocol used to find out the hardware (MAC) address of a device from an IP address. It is used when a device wants to communicate with some other device on a local network (for example on an Ethernet network that requires physical addresses to be known before sending packets). The sending device uses ARP to translate IP addresses to MAC addresses. The device sends an ARP request message containing the IP address of the receiving device. All devices on a local network segment see the message, but only the device that has that IP address responds with the ARP reply message containing its MAC address. The sending device now has enough information to send the packet to the receiving device.
+
+ARP request packets are sent to the broadcast addresses (FF:FF:FF:FF:FF:FF for the Ethernet broadcasts and 255.255.255.255 for the IP broadcast).
+
+
+
+![image](https://user-images.githubusercontent.com/76471156/230762016-d61e7944-eea1-40c9-947e-a861d4d75e73.png)
 
 
 # Types of Network Topology
