@@ -97,6 +97,24 @@ You can use mininet with the mininet CLI and Mininet Python API(you need python 
 4. Ubuntu (my personal favorite)
 For further reading visit https://www.techradar.com/best/best-linux-distros
 
+# What's Ryu (used in mininet)
+Ryu is a component-based software defined networking framework.
+
+Ryu provides software components with well defined API's that make it easy for developers to create new network management and control applications. Ryu supports various protocols for managing network devices, such as OpenFlow, Netconf, OF-config, etc. About OpenFlow, Ryu supports fully 1.0, 1.2, 1.3, 1.4, 1.5 and Nicira Extensions.
+All of the code is freely available under the Apache 2.0 license. Ryu is fully written in Python.
+![image](https://user-images.githubusercontent.com/76471156/230763127-7d6df8f2-eda1-4aa1-9476-88917db14584.png)
+
+### For further reading https://ryu.readthedocs.io/en/latest/getting_started.html
+To use it with mininet https://github.com/knetsolutions/learn-sdn-with-ryu
+
+# Mininet tools
+## MiniNAM(A network animator for visualizing real-time packet flows in Mininet)
+A utility that provides real-time animation of networks created by the Mininet emulator. 
+![image](https://user-images.githubusercontent.com/76471156/230763243-a37e1138-807f-457b-be55-10f17bb5633f.png)
+
+For further reading https://www.researchgate.net/publication/316176404_MiniNAM_A_network_animator_for_visualizing_real-time_packet_flows_in_Mininet
+
+
 ### How to Install Linux on Windows 10?
 - The full guide is here https://www.hellotech.com/guide/for/how-to-install-linux-on-windows-10
 - Mininet alternatives https://www.topbestalternatives.com/mininet/
