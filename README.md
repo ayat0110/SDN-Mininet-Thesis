@@ -114,6 +114,8 @@ A utility that provides real-time animation of networks created by the Mininet e
 
 For further reading https://www.researchgate.net/publication/316176404_MiniNAM_A_network_animator_for_visualizing_real-time_packet_flows_in_Mininet
 
+## Mininet Topology Visualizer
+http://mininet.spear.narmox.com/
 
 ### How to Install Linux on Windows 10?
 - The full guide is here https://www.hellotech.com/guide/for/how-to-install-linux-on-windows-10
