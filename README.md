@@ -76,6 +76,41 @@ The hybrid topology is the mixture of two or more node designs such as ring, mes
     <img  src="https://user-images.githubusercontent.com/76471156/230731468-1c3512dd-46b0-4c4b-857e-bac7ba14b390.png">
 </p>
 
+# What is a subnet mask and subnetting ?
+IP addresses: Networks and hosts
+
+An IP address is a 32-bit number. It uniquely identifies a host (computer or other device, such as a printer or router) on a TCP/IP network.
+
+IP addresses are normally expressed in dotted-decimal format, with four numbers separated by periods, such as 192.168.123.132. To understand how subnet masks are used to distinguish between hosts, networks, and subnetworks, examine an IP address in binary notation.
+
+For example, the dotted-decimal IP address 192.168.123.132 is (in binary notation) the 32-bit number 11000000101010000111101110000100. This number may be hard to make sense of, so divide it into four parts of eight binary digits.
+
+These 8-bit sections are known as octets. The example IP address, then, becomes 11000000.10101000.01111011.10000100. This number only makes a little more sense, so for most uses, convert the binary address into dotted-decimal format (192.168.123.132). The decimal numbers separated by periods are the octets converted from binary to decimal notation.
+
+For a TCP/IP wide area network (WAN) to work efficiently as a collection of networks, the routers that pass packets of data between networks don't know the exact location of a host for which a packet of information is destined. Routers only know what network the host is a member of and use information stored in their route table to determine how to get the packet to the destination host's network. After the packet is delivered to the destination's network, the packet is delivered to the appropriate host.
+
+For this process to work, an IP address has two parts. The first part of an IP address is used as a network address, the last part as a host address. If you take the example 192.168.123.132 and divide it into these two parts, you get 192.168.123. Network .132 Host or 192.168.123.0 - network address. 0.0.0.132 - host address.
+Subnet mask
+
+The second item, which is required for TCP/IP to work, is the subnet mask. The subnet mask is used by the TCP/IP protocol to determine whether a host is on the local subnet or on a remote network.
+
+In TCP/IP, the parts of the IP address that are used as the network and host addresses aren't fixed. Unless you have more information, the network and host addresses above can't be determined. This information is supplied in another 32-bit number called a subnet mask. The subnet mask is 255.255.255.0 in this example. It isn't obvious what this number means unless you know 255 in binary notation equals 11111111. So, the subnet mask is 11111111.11111111.11111111.00000000.
+
+Lining up the IP address and the subnet mask together, the network, and host portions of the address can be separated:
+
+11000000.10101000.01111011.10000100 - IP address (192.168.123.132)
+11111111.11111111.11111111.00000000 - Subnet mask (255.255.255.0)
+
+The first 24 bits (the number of ones in the subnet mask) are identified as the network address. The last 8 bits (the number of remaining zeros in the subnet mask) are identified as the host address. It gives you the following addresses:
+
+11000000.10101000.01111011.00000000 - Network address (192.168.123.0)
+00000000.00000000.00000000.10000100 - Host address (000.000.000.132)
+
+So now you know, for this example using a 255.255.255.0 subnet mask, that the network ID is 192.168.123.0, and the host address is 0.0.0.132. When a packet arrives on the 192.168.123.0 subnet (from the local subnet or a remote network), and it has a destination address of 192.168.123.132, your computer will receive it from the network and process it.
+![image](https://user-images.githubusercontent.com/76471156/232020293-b51f6233-2a93-45e5-9163-e9444f331ec2.png)
+
+For futher understanding watch https://www.youtube.com/watch?v=s_Ntt6eTn94&ab_channel=PowerCertAnimatedVideos
+
 
 # What is Mininet?
 
