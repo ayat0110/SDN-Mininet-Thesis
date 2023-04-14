@@ -113,6 +113,10 @@ So now you know, for this example using a 255.255.255.0 subnet mask, that the ne
 
 For futher understanding watch https://www.youtube.com/watch?v=s_Ntt6eTn94&ab_channel=PowerCertAnimatedVideos
 
+# What Is a Network Gateway?
+![image](https://user-images.githubusercontent.com/76471156/232030390-333cc13f-3a01-4a24-ae89-85027fbb5ecc.png)
+https://www.youtube.com/watch?v=pCcJFdYNamc&ab_channel=PowerCertAnimatedVideos
+
 
 # What is Mininet?
 
