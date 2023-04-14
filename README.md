@@ -107,6 +107,8 @@ The first 24 bits (the number of ones in the subnet mask) are identified as the 
 00000000.00000000.00000000.10000100 - Host address (000.000.000.132)
 
 So now you know, for this example using a 255.255.255.0 subnet mask, that the network ID is 192.168.123.0, and the host address is 0.0.0.132. When a packet arrives on the 192.168.123.0 subnet (from the local subnet or a remote network), and it has a destination address of 192.168.123.132, your computer will receive it from the network and process it.
+
+
 ![image](https://user-images.githubusercontent.com/76471156/232020293-b51f6233-2a93-45e5-9163-e9444f331ec2.png)
 
 For futher understanding watch https://www.youtube.com/watch?v=s_Ntt6eTn94&ab_channel=PowerCertAnimatedVideos
